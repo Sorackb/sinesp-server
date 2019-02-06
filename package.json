@@ -1,0 +1,30 @@
+{
+  "name": "sinesp-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sorackb/sinesp-server.git"
+  },
+  "keywords": [
+    "sinesp",
+    "server"
+  ],
+  "author": "Lucas Souza <sorackb@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sorackb/sinesp-server/issues"
+  },
+  "homepage": "https://github.com/Sorackb/sinesp-server#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "sinesp-api": "^1.2.9"
+  }
+}
