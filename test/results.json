@@ -1,0 +1,32 @@
+{
+  "AAA-1111": {
+    "codigoRetorno": "0",
+    "mensagemRetorno": "Sem erros.",
+    "codigoSituacao": "1",
+    "situacao": "Roubo/Furto",
+    "modelo": "VW/SANTANA EXECUTIVO",
+    "marca": "VW/SANTANA EXECUTIVO",
+    "cor": "Preta",
+    "ano": "1990",
+    "anoModelo": "1990",
+    "placa": "AAA1111",
+    "uf": "PR",
+    "municipio": "CURITIBA",
+    "chassi": "01191"
+  },
+  "ABC1234": {
+    "codigoRetorno":"0",
+    "mensagemRetorno":"Sem erros.",
+    "codigoSituacao":"0",
+    "situacao":"Sem restrição",
+    "modelo":"VW/SANTANA CG",
+    "marca":"VW/SANTANA CG",
+    "cor":"Vermelha",
+    "ano":"1986",
+    "anoModelo":"1986",
+    "placa":"ABC1234",
+    "uf":"PR",
+    "municipio":"LOBATO",
+    "chassi":"46344"
+  }
+}
